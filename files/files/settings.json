@@ -1,0 +1,7 @@
+{
+  "default_mode": "chat",
+  "dialog_type": "general",
+  "allow_system_interaction": false,
+  "use_emoji": true,
+  "selected_model": "deepseek-r1:1.5b"
+}
