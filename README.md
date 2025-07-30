@@ -281,7 +281,3 @@ If ModulaR LLM EMULATOR helps you bring AI into your daily workflow, please cons
 - **Joining** our community discussions
 
 ---
-
-**Made with care for the AI community**
-
-*Bringing the future of artificial intelligence to your desktop, one mod at a time.*
