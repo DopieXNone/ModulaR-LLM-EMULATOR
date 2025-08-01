@@ -19,22 +19,7 @@
 
 ### Quick Setup
 
-Choose your platform and run the appropriate installation script:
-
-#### Windows
-```bash
-# Download and run the Windows installer
-curl -o install_setup.bat https://raw.githubusercontent.com/your-repo/modular-llm-emulator/main/install_setup.bat
-install_setup.bat
-```
-
-#### Linux
-```bash
-# Download and run the Linux installer
-curl -o install_setup.sh https://raw.githubusercontent.com/your-repo/modular-llm-emulator/main/install_setup.sh
-chmod +x install_setup.sh
-./install_setup.sh
-```
+Download the surce code and install the tool for your platform:
 
 ### What Gets Installed
 
