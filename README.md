@@ -158,25 +158,6 @@ python modular.py
 # Select "Addons Menu" to interact with loaded addons
 ```
 
-## Use Cases
-
-### Legacy Software Integration
-Transform outdated applications with AI capabilities:
-- Add smart autocomplete to old text editors
-- Implement AI-powered search in legacy databases
-- Create intelligent help systems for proprietary software
-
-### Workflow Enhancement
-Supercharge your daily tasks:
-- Automated email responses with context awareness
-- Smart file organization and tagging
-- Intelligent clipboard management with AI suggestions
-
-### Professional Applications
-- Code review and optimization suggestions
-- Document analysis and summarization
-- Meeting transcription and action item extraction
-
 ## Coming Soon
 
 We're constantly working to expand ModulaR's capabilities. Here's what's on the horizon:
