@@ -172,11 +172,6 @@ Supercharge your daily tasks:
 - Smart file organization and tagging
 - Intelligent clipboard management with AI suggestions
 
-### Gaming & Entertainment
-- AI-powered game mods and enhancements
-- Dynamic content generation for creative projects
-- Intelligent game assistance and strategy suggestions
-
 ### Professional Applications
 - Code review and optimization suggestions
 - Document analysis and summarization
@@ -205,17 +200,17 @@ We're constantly working to expand ModulaR's capabilities. Here's what's on the 
 - **API Gateway** - RESTful API for third-party integrations
 
 ### Remote Usage & Collaboration
-- **Web Interface** - Browser-based access to ModulaR functionality
-- **Mobile Companion** - iOS and Android apps for remote control
-- **Team Collaboration** - Shared AI workspaces and collaborative features
-- **Remote Desktop Integration** - AI assistance for remote work scenarios
+- **Web Interface** - COMING SOON
+- **Mobile Companion** - COMING SOON
+- **Team Collaboration** - COMING SOON
+- **Remote Desktop Integration** - COMING SOON
 
 ## Documentation
 
-- User Guide - Comprehensive usage instructions
-- API Reference - Developer documentation
-- Addon Development - Create custom addons
-- Troubleshooting - Common issues and solutions
+- **User Guide** - COMING SOON
+- **API Reference** - COMING SOON
+- **Addon Development** - Create custom addons
+- **Troubleshooting** - Common issues and solutions
 
 ## Contributing
 
@@ -229,31 +224,16 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 ### Development Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/modular-llm-emulator.git
-cd modular-llm-emulator
-
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-python -m pytest tests/
-
-# Start development server
-python modular.py --dev
-```
+You can just use Python 3.8+, a text editor and your brain. 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ## Links
 
-- GitHub Repository
-- Support Email
-- Discord Community  
-- Twitter Updates
+- **GitHub Repository**: https://github.com/DopieXNone/ModulaR-LLM-EMULATOR/
+- **Discord Community**: COMING SOON
 
 ## Support
 
